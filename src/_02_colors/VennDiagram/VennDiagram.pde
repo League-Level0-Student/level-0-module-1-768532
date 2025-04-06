@@ -1,1 +1,11 @@
 size(600,600);
+fill(255, 0, 0, 100);
+ellipse (225, 250, 225, 225);
+fill(0, 255, 0, 100);
+ellipse (400, 250, 225, 225);
+fill(0, 0, 255, 100);
+ellipse (300, 350, 225, 225);
+textSize(15);
+text("Kind", 200, 225);
+text("Hardworking", 400, 225);
+text("Polite", 290, 375);
